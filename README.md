@@ -1,4 +1,4 @@
-# desafio7
+# Desafio VII Crear un script bash simple para clonar todos los repositorios bajo un usuario de GitHub
 
 Este script realiza las siguientes acciones:
 
